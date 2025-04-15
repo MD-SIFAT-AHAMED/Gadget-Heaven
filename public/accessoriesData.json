@@ -1,0 +1,113 @@
+[
+    {
+      "product_id": "ACC001",
+      "product_title": "Logitech MX Master 3S",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 99.99,
+      "description": "Advanced wireless mouse with ergonomic design.",
+      "Specification": ["Bluetooth & USB", "4000 DPI Sensor", "Customizable Buttons"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "ACC002",
+      "product_title": "Anker PowerCore 10000",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 29.99,
+      "description": "Portable power bank for fast charging on the go.",
+      "Specification": ["10000mAh", "USB-A and USB-C", "Fast Charging"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "ACC003",
+      "product_title": "Samsung 25W Fast Charger",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 19.99,
+      "description": "Compact and powerful USB-C charger.",
+      "Specification": ["USB-C", "25W Output", "Compatible with Galaxy Devices"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "ACC004",
+      "product_title": "Apple AirPods Pro (2nd Gen)",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 249.00,
+      "description": "Noise-cancelling wireless earbuds with spatial audio.",
+      "Specification": ["Active Noise Cancellation", "MagSafe Charging Case", "Bluetooth 5.3"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "ACC005",
+      "product_title": "Logitech K380 Bluetooth Keyboard",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 39.99,
+      "description": "Compact multi-device wireless keyboard.",
+      "Specification": ["Bluetooth", "Multi-OS Support", "Long Battery Life"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "ACC006",
+      "product_title": "WD My Passport 1TB",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 59.99,
+      "description": "Portable external hard drive with backup software.",
+      "Specification": ["1TB Storage", "USB 3.0", "Automatic Backup"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "ACC007",
+      "product_title": "Ugreen USB-C Hub 6-in-1",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 49.99,
+      "description": "Expand your USB-C laptop with HDMI, USB, and card readers.",
+      "Specification": ["HDMI 4K", "3x USB 3.0", "SD/TF Card Readers"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "ACC008",
+      "product_title": "Belkin Wireless Charger 15W",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 34.99,
+      "description": "Fast wireless charging pad for Qi-enabled devices.",
+      "Specification": ["15W Output", "LED Indicator", "Non-Slip Design"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "ACC009",
+      "product_title": "Razer Mouse Bungee V3",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 24.99,
+      "description": "Cable management system for wired mouse gaming.",
+      "Specification": ["Spring Arm", "Weighted Base", "Rust-resistant Finish"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "ACC010",
+      "product_title": "Baseus Car Phone Mount",
+      "product_image": "https://i.ibb.co.com/5XX5k91c/accessories.jpg",
+      "category": "Accessories",
+      "price": 16.99,
+      "description": "Secure and adjustable magnetic car phone holder.",
+      "Specification": ["Magnetic Hold", "360° Rotation", "Air Vent Mount"],
+      "availability": true,
+      "rating": 4.4
+    }
+  ]
+  

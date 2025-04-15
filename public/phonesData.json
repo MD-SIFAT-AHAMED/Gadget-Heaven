@@ -1,0 +1,162 @@
+[
+    {
+      "product_id": "PHN001",
+      "product_title": "Samsung Galaxy S23",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 799.99,
+      "description": "Flagship smartphone with excellent performance and camera.",
+      "Specification": [
+        "Snapdragon 8 Gen 2",
+        "8GB RAM",
+        "128GB Storage",
+        "6.1 inch AMOLED"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "PHN002",
+      "product_title": "iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 1199.99,
+      "description": "Premium iPhone with titanium frame and powerful A17 chip.",
+      "Specification": [
+        "A17 Bionic",
+        "6.7 inch Display",
+        "48MP Camera",
+        "USB-C"
+      ],
+      "availability": false,
+      "rating": 4.9
+    },
+    {
+      "product_id": "PHN003",
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 999.99,
+      "description": "Pure Android experience with top-notch camera and AI features.",
+      "Specification": [
+        "Google Tensor G3",
+        "12GB RAM",
+        "128GB Storage",
+        "6.7 inch LTPO OLED"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "PHN004",
+      "product_title": "OnePlus 11",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 699.99,
+      "description": "Fast and smooth performance with excellent display and battery.",
+      "Specification": [
+        "Snapdragon 8 Gen 2",
+        "16GB RAM",
+        "256GB Storage",
+        "6.7 inch AMOLED"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "PHN005",
+      "product_title": "Xiaomi 13 Pro",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 899.99,
+      "description": "Flagship phone with Leica camera system and fast charging.",
+      "Specification": [
+        "Snapdragon 8 Gen 2",
+        "12GB RAM",
+        "256GB Storage",
+        "6.73 inch AMOLED"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "PHN006",
+      "product_title": "Sony Xperia 1 V",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 1299.99,
+      "description": "Cinematic experience with 4K display and professional camera tools.",
+      "Specification": [
+        "Snapdragon 8 Gen 2",
+        "12GB RAM",
+        "256GB Storage",
+        "6.5 inch 4K OLED"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": "PHN007",
+      "product_title": "Realme GT5",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 599.99,
+      "description": "High-performance gaming phone with blazing-fast charging.",
+      "Specification": [
+        "Snapdragon 8 Gen 2",
+        "16GB RAM",
+        "512GB Storage",
+        "6.74 inch AMOLED"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "PHN008",
+      "product_title": "Motorola Edge 40 Pro",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 799.99,
+      "description": "Sleek design with flagship specs and clean Android UI.",
+      "Specification": [
+        "Snapdragon 8 Gen 2",
+        "12GB RAM",
+        "256GB Storage",
+        "6.67 inch OLED"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "PHN009",
+      "product_title": "Nothing Phone (2)",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 599.0,
+      "description": "Unique transparent design with smooth performance.",
+      "Specification": [
+        "Snapdragon 8+ Gen 1",
+        "12GB RAM",
+        "256GB Storage",
+        "6.7 inch AMOLED"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "PHN010",
+      "product_title": "ASUS ROG Phone 7",
+      "product_image": "https://i.ibb.co.com/hJpGwMmz/phone2.webp",
+      "category": "Phone",
+      "price": 1099.99,
+      "description": "Ultimate gaming smartphone with advanced cooling and display.",
+      "Specification": [
+        "Snapdragon 8 Gen 2",
+        "16GB RAM",
+        "512GB Storage",
+        "165Hz AMOLED"
+      ],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]

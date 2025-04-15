@@ -1,0 +1,163 @@
+[
+    {
+      "product_id": "LAP001",
+      "product_title": "Acer Aspire 5",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 599.99,
+      "description": "A powerful and affordable laptop for everyday use.",
+      "Specification": [
+        "Intel Core i5",
+        "8GB RAM",
+        "512GB SSD",
+        "15.6 inch FHD"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "LAP002",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 999.99,
+      "description": "Ultra-portable laptop with stunning display and performance.",
+      "Specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD",
+        "13.3 inch 4K"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "LAP003",
+      "product_title": "HP Pavilion 15",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 649.99,
+      "description": "Reliable and budget-friendly laptop for students and professionals.",
+      "Specification": [
+        "Intel Core i5",
+        "8GB RAM",
+        "256GB SSD",
+        "15.6 inch HD"
+      ],
+      "availability": true,
+      "rating": 4.0
+    },
+    {
+      "product_id": "LAP004",
+      "product_title": "Lenovo IdeaPad 3",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 479.99,
+      "description": "Affordable laptop with decent performance and display.",
+      "Specification": [
+        "AMD Ryzen 5",
+        "8GB RAM",
+        "512GB SSD",
+        "15.6 inch FHD"
+      ],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": "LAP005",
+      "product_title": "ASUS VivoBook S15",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 749.99,
+      "description": "Stylish and powerful laptop with great battery life.",
+      "Specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD",
+        "15.6 inch FHD"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "LAP006",
+      "product_title": "MSI Modern 14",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 699.99,
+      "description": "Lightweight performance laptop for creators and professionals.",
+      "Specification": [
+        "Intel Core i5",
+        "8GB RAM",
+        "512GB SSD",
+        "14 inch FHD"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "LAP007",
+      "product_title": "Razer Blade 15",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 1799.99,
+      "description": "High-performance gaming laptop with stunning graphics.",
+      "Specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "1TB SSD",
+        "RTX 3070",
+        "15.6 inch QHD"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "LAP008",
+      "product_title": "Acer Swift 3",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 549.99,
+      "description": "Slim and fast ultrabook with long battery life.",
+      "Specification": [
+        "AMD Ryzen 7",
+        "8GB RAM",
+        "512GB SSD",
+        "14 inch FHD"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "LAP009",
+      "product_title": "Microsoft Surface Laptop 5",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "Premium touchscreen laptop with excellent build quality.",
+      "Specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD",
+        "13.5 inch Touch"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "LAP010",
+      "product_title": "Gigabyte AERO 16",
+      "product_image": "https://i.ibb.co.com/bZ8DGfP/laptop.jpg",
+      "category": "Laptop",
+      "price": 2199.99,
+      "description": "Creator-focused laptop with top-tier display and performance.",
+      "Specification": [
+        "Intel Core i9",
+        "32GB RAM",
+        "1TB SSD",
+        "16 inch 4K OLED"
+      ],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]

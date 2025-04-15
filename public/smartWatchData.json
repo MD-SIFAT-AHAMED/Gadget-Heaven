@@ -1,0 +1,113 @@
+[
+    {
+      "product_id": "SMW001",
+      "product_title": "Apple Watch Series 9",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 399.00,
+      "description": "Latest Apple Watch with S9 chip, Always-On display, and health features.",
+      "Specification": ["S9 Chip", "Retina Display", "Blood Oxygen & ECG", "watchOS 10"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "SMW002",
+      "product_title": "Samsung Galaxy Watch 6",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 349.99,
+      "description": "Premium Android smartwatch with fitness tracking and LTE.",
+      "Specification": ["Wear OS", "BioActive Sensor", "Sleep Coaching", "1.5GB RAM"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "SMW003",
+      "product_title": "Google Pixel Watch 2",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 329.99,
+      "description": "Elegant smartwatch with Fitbit health tracking and Google integration.",
+      "Specification": ["Wear OS", "Fitbit Heart Rate Sensor", "Fast Charging", "Aluminum Case"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "SMW004",
+      "product_title": "Garmin Venu 3",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 449.99,
+      "description": "Advanced health and fitness smartwatch with GPS and AMOLED screen.",
+      "Specification": ["AMOLED", "GPS", "Sleep & Stress Tracking", "Music Storage"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "SMW005",
+      "product_title": "Amazfit GTR 4",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 199.99,
+      "description": "Stylish smartwatch with 150+ sport modes and dual-band GPS.",
+      "Specification": ["Zepp OS", "AMOLED Display", "14-Day Battery", "Alexa Built-In"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "SMW006",
+      "product_title": "Fossil Gen 6",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 299.00,
+      "description": "Classic design meets modern tech with Snapdragon Wear 4100+.",
+      "Specification": ["Wear OS", "1GB RAM", "Heart Rate & SpO2", "Fast Charging"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "SMW007",
+      "product_title": "Huawei Watch GT 4",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 229.99,
+      "description": "Elegant design with robust fitness tracking and long battery life.",
+      "Specification": ["AMOLED Display", "2-Week Battery", "Health Monitoring", "GPS"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "SMW008",
+      "product_title": "Redmi Watch 3",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 89.99,
+      "description": "Affordable and lightweight smartwatch with bright AMOLED display.",
+      "Specification": ["AMOLED", "Bluetooth Calling", "5ATM Water Resistance", "GPS"],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": "SMW009",
+      "product_title": "OnePlus Watch 2",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 299.00,
+      "description": "Dual-engine architecture for power efficiency and performance.",
+      "Specification": ["Dual OS", "100hr Battery Life", "Sapphire Glass", "IP68 Rating"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "SMW010",
+      "product_title": "Boat Xtend Smartwatch",
+      "product_image": "https://i.ibb.co.com/r29ySnYB/smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 49.99,
+      "description": "Budget-friendly smartwatch with Alexa and health features.",
+      "Specification": ["1.69” LCD Display", "Heart Rate & SpO2", "5ATM", "Sleep Tracker"],
+      "availability": true,
+      "rating": 4.0
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "product_id": "MAC001",
+      "product_title": "MacBook Air M2 (13-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 1099.00,
+      "description": "Lightweight MacBook Air with Apple M2 chip and Retina display.",
+      "Specification": ["Apple M2", "8GB RAM", "256GB SSD", "13.6-inch Retina Display"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "MAC002",
+      "product_title": "MacBook Pro M3 (14-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 1999.00,
+      "description": "Powerful 14-inch MacBook Pro with M3 chip and Liquid Retina XDR.",
+      "Specification": ["Apple M3", "16GB RAM", "512GB SSD", "14-inch XDR Display"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "MAC003",
+      "product_title": "MacBook Pro M3 Max (16-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 3499.00,
+      "description": "High-performance MacBook for professionals with M3 Max chip.",
+      "Specification": ["Apple M3 Max", "32GB RAM", "1TB SSD", "16-inch Liquid Retina XDR"],
+      "availability": true,
+      "rating": 5.0
+    },
+    {
+      "product_id": "MAC004",
+      "product_title": "MacBook Air M1",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 899.00,
+      "description": "Affordable and efficient MacBook Air with M1 chip.",
+      "Specification": ["Apple M1", "8GB RAM", "256GB SSD", "13.3-inch Retina Display"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "MAC005",
+      "product_title": "MacBook Pro M2 (13-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 1299.00,
+      "description": "Compact MacBook Pro with Touch Bar and M2 chip.",
+      "Specification": ["Apple M2", "8GB RAM", "256GB SSD", "13-inch Retina Display"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "MAC006",
+      "product_title": "MacBook Pro M2 Pro (14-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 2399.00,
+      "description": "Pro-level performance and portability in a 14-inch design.",
+      "Specification": ["Apple M2 Pro", "16GB RAM", "512GB SSD", "14.2-inch XDR Display"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "MAC007",
+      "product_title": "MacBook Air M3 (15-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 1299.00,
+      "description": "Larger MacBook Air with powerful M3 chip and 15-inch screen.",
+      "Specification": ["Apple M3", "8GB RAM", "256GB SSD", "15.3-inch Retina Display"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "MAC008",
+      "product_title": "MacBook Pro M3 Pro (16-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 2799.00,
+      "description": "Performance-focused MacBook for creatives and engineers.",
+      "Specification": ["Apple M3 Pro", "18GB RAM", "512GB SSD", "16-inch Liquid Retina XDR"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "MAC009",
+      "product_title": "MacBook Air M2 (15-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 1199.00,
+      "description": "Light and powerful MacBook Air with a 15-inch display.",
+      "Specification": ["Apple M2", "8GB RAM", "512GB SSD", "15.3-inch Retina Display"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "MAC010",
+      "product_title": "Refurbished MacBook Pro M1 (13-inch)",
+      "product_image": "https://i.ibb.co.com/93kykctB/macbook-lpg.webp",
+      "category": "MacBook",
+      "price": 999.00,
+      "description": "Certified refurbished MacBook Pro with Apple M1 chip.",
+      "Specification": ["Apple M1", "8GB RAM", "256GB SSD", "13.3-inch Retina Display"],
+      "availability": true,
+      "rating": 4.5
+    }
+  ]
+  

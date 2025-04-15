@@ -1,0 +1,112 @@
+[
+  {
+    "product_id": "IPH001",
+    "product_title": "iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 1199.00,
+    "description": "Apple's most powerful iPhone with A17 Pro chip and titanium body.",
+    "Specification": ["A17 Pro", "6.7-inch Super Retina XDR", "Triple Camera", "USB-C"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "IPH002",
+    "product_title": "iPhone 15",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 799.00,
+    "description": "Latest iPhone with Dynamic Island and USB-C support.",
+    "Specification": ["A16 Bionic", "6.1-inch Display", "Dual Camera", "USB-C Charging"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "IPH003",
+    "product_title": "iPhone 15 Plus",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 899.00,
+    "description": "Bigger battery and screen with the same power as iPhone 15.",
+    "Specification": ["A16 Bionic", "6.7-inch Display", "Dual Camera", "USB-C Charging"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "IPH004",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 999.00,
+    "description": "Pro-grade camera and display with A16 Bionic chip.",
+    "Specification": ["A16 Bionic", "Always-On Display", "48MP Camera", "Face ID"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "IPH005",
+    "product_title": "iPhone 14",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 699.00,
+    "description": "Solid performance with great value and camera features.",
+    "Specification": ["A15 Bionic", "6.1-inch Display", "Dual Camera", "iOS 17"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "IPH006",
+    "product_title": "iPhone SE (3rd Gen)",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 429.00,
+    "description": "Compact and budget-friendly iPhone with A15 Bionic chip.",
+    "Specification": ["A15 Bionic", "4.7-inch Display", "Touch ID", "Single Camera"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "IPH007",
+    "product_title": "iPhone 13",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 599.00,
+    "description": "Reliable iPhone with strong battery life and great camera.",
+    "Specification": ["A15 Bionic", "6.1-inch OLED", "Dual 12MP Camera", "5G"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "IPH008",
+    "product_title": "iPhone 13 Mini",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 529.00,
+    "description": "Compact phone with flagship-level performance.",
+    "Specification": ["A15 Bionic", "5.4-inch Display", "Dual Camera", "MagSafe Support"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "IPH009",
+    "product_title": "iPhone 12",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 499.00,
+    "description": "5G-enabled iPhone with OLED display and MagSafe support.",
+    "Specification": ["A14 Bionic", "6.1-inch Display", "Night Mode Camera", "Ceramic Shield"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "IPH010",
+    "product_title": "Refurbished iPhone 11",
+    "product_image": "https://i.ibb.co.com/XfWJnXG3/iphone.webp",
+    "category": "iPhone",
+    "price": 349.00,
+    "description": "Affordable refurbished iPhone with dual cameras and great battery.",
+    "Specification": ["A13 Bionic", "6.1-inch LCD", "Dual Camera", "Face ID"],
+    "availability": true,
+    "rating": 4.3
+  }
+]
