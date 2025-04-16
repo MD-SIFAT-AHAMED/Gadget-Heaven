@@ -10,11 +10,13 @@ import Root from './Components/Root/Root.jsx';
 import Home from './Components/Home/Home.jsx';
 import ProductSection from './Components/ProductSection/ProductSection.jsx';
 import ProductDetails from './Components/ProductDetails/ProductDetails.jsx';
+import NotFound from './Components/NotFound/NotFound.jsx';
 
 const router = createBrowserRouter([
   {
     path:'/',
     element:<Root></Root>,
+    errorElement:<NotFound></NotFound>,
     children:[
       {
         path:'/',
@@ -22,15 +24,13 @@ const router = createBrowserRouter([
       },
       {
         path:'/details/:productId',
-        // loader:(()=> fetch()),
+        loader:(()=> fetch('laptopsData.json')),
         element:<ProductDetails></ProductDetails>
       }
   
     ]
   }
 ])
-
-
 
 
 createRoot(document.getElementById('root')).render(
